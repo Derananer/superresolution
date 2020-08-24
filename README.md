@@ -1,7 +1,3 @@
-# Video-Enhancement
-A list of resources for video enhancement, including video super-resolutio, interpolation, denoising, compression artifact removal et al..
-
-By Yulun Zhang (yulun100@gmail.com), Yapeng Tian. (yapengtian@rochester.edu). If you have any suggestions, please contact us. Thanks!
 
 ## Video Interpolation
 * Xiaoyu Xiang et al., Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution, CVPR, 2020. [[Paper]](https://arxiv.org/abs/2002.11616) [[Code]](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020)
@@ -51,3 +47,7 @@ By Yulun Zhang (yulun100@gmail.com), Yapeng Tian. (yapengtian@rochester.edu). If
 
 
 Information was copied from https://github.com/yulunzhang/video-enhancement/.
+
+A list of resources for video enhancement, including video super-resolutio, interpolation, denoising, compression artifact removal et al..
+
+By Yulun Zhang (yulun100@gmail.com), Yapeng Tian. (yapengtian@rochester.edu). If you have any suggestions, please contact us. Thanks!

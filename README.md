@@ -48,3 +48,6 @@ By Yulun Zhang (yulun100@gmail.com), Yapeng Tian. (yapengtian@rochester.edu). If
 
 ## Other Video Enhancement Tasks
 * Ren Yang et al., Multi-Frame Quality Enhancement for Compressed Video, CVPR, 2018. [[Paper]](https://arxiv.org/abs/1803.04680)
+
+
+Information was copied from https://github.com/yulunzhang/video-enhancement/.
